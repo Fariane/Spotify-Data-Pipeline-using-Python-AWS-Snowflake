@@ -30,7 +30,7 @@ This project involves implementing an ETL pipeline that utilizes the Spotify API
 
 3. **Data Loading:** Snowpipe automatically ingests transformed data into Snowflake tables for querying and analysis.
 
-4. **SQL Analytics:** SQL scripts enable meaningful analysis of the data ingested into Snowflake.
+4. **SQL Analytics:** SQL scripts enable analysis of the data ingested into Snowflake.
 
 ## Tools and Technologies
 
