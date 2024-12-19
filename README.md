@@ -4,7 +4,7 @@
 This project involves implementing an ETL pipeline that utilizes the Spotify API, AWS, and Snowflake. The pipeline extracts music data (albums, artists, and tracks) from the Spotify API, transforms it using AWS Lambda, and stores the processed data in AWS S3. Finally, the data is ingested into Snowflake for meaningful analysis and visualization. 
 
 ## Architecture
-![Architecture Diagram](spotify_pipeline_architecture_dgrm.png)
+![Architecture Diagram](spotify_snowflake_pipeline_architecture_dgrm)
 
 ## Key Components
 
@@ -30,9 +30,7 @@ This project involves implementing an ETL pipeline that utilizes the Spotify API
 
 3. **Data Loading:** Snowpipe automatically ingests transformed data into Snowflake tables for querying and analysis.
 
-
-### Analytics
-- **SQL Development:** SQL scripts enable meaningful analysis of the data ingested into Snowflake.
+4. **SQL Analytics:** SQL scripts enable meaningful analysis of the data ingested into Snowflake.
 
 ## Tools and Technologies
 
