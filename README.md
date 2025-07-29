@@ -1,4 +1,4 @@
-#  🎵 Spotify Data Pipeline using Python, AWS & Snowflake
+#  🎵 Spotify Data Pipeline avec Python, AWS & Snowflake
 
 ## Présentation
 Ce projet consiste à mettre en place un pipeline ETL combinant Spotify API, AWS et Snowflake.
