@@ -53,6 +53,9 @@ Amazon S3 (Données transformées) → Snowpipe → Snowflake (Chargement automa
 ### Data Warehouse
 - **Snowflake :** entrepôt de données centralisé avec ingestion automatique via Snowpipe
 
+### Visualisation & Reporting
+- **Power BI:**  pour créer des rapports interactifs et des dashboards exploitables.
+
 ### Librairies :
 - `spotipy` pour interagir avec l’API Spotify, 
 - `pandas` pour la manipulation des données,
