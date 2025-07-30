@@ -47,7 +47,7 @@ Amazon S3 (Données transformées) → Snowpipe → Snowflake (Chargement automa
 
 ### Services AWS :
 - **AWS Lambda :** pour automatiser l’extraction et la transformation
-- **Amazon CloudWatch : ** pour le déclenchement programmé
+- **Amazon CloudWatch :** pour le déclenchement programmé
 - **Amazon S3 :** pour le stockage des données
   
 ### Data Warehouse
