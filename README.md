@@ -18,7 +18,7 @@ Amazon S3 (Données transformées) → Snowpipe → Snowflake (Chargement automa
 ## Composants clés
 
 ### Data Extraction
-- **Spotify API :** Utilisée pour récupérer des données musicales : morceaux, artistes et albums.
+- **Spotify API :** Utilisée pour récupérer des données musicales : artistes, albums et songs.
 - **Authentification :** Intégration du protocole OAuth 2.0 pour sécuriser l’accès aux endpoints de l’API.
 - **Planification :** Un job CloudWatch lance la fonction Lambda tous les jours pour aller chercher les nouvelles données.
   
